@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "classmap": [
+        "files": [
             "vendor/uxm-utils-silex/autoload.php"
         ]
     }
