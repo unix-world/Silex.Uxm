@@ -9,6 +9,9 @@
             "email": "iradu@unix-world.org"
         }
     ],
-    "require": {
+    "autoload": {
+        "classmap": [
+            "vendor/uxm-utils-silex/autoload.php"
+        ]
     }
 }
