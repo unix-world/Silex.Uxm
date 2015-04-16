@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "files": [
-            "vendor/uxm-utils-silex/autoload.php"
+            "autoload.php"
         ]
     }
 }
