@@ -1,0 +1,14 @@
+{
+    "name": "unix-world/uxm-utils-silex",
+    "description": "Utilities for Silex (Symfony) PHP framework(s)",
+    "homepage": "http://www.unix-world.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radu Ovidiu I.",
+            "email": "iradu@unix-world.org"
+        }
+    ],
+    "require": {
+    }
+}
